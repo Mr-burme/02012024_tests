@@ -3,7 +3,7 @@
 #1 Bērziņa Tīna
 
 #2 Burmistris Ernests
-
+Sveiki Ernest!
 #3 Jefremovs Ēriks Miķelis
 
 #4 Krastiņš Ričards
